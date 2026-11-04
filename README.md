@@ -20,8 +20,6 @@
 
 <b><a href="https://github.com/vulloa/TheConnectomeCSharp">TheConnectomeCSharp</a></b> · ★ 0<br/><sub>TheConnectome Capstone Project continuation in C# (Visual Studio)</sub><br/><br/>
 <a href="https://github.com/vulloa/TheConnectomeCPlus">TheConnectomeCPlus</a> · ★ 0<br/><sub>TheConnectome Capstone Project continuation in C++ (Visual Studio)</sub><br/><br/>
-<a href="https://github.com/vulloa/CSE511">CSE511</a> · ★ 0<br/><sub>ASU: Data Processing at Scale</sub><br/><br/>
-<a href="https://github.com/vulloa/CSE572_A1">CSE572_A1</a> · ★ 0<br/><sub>A public project on GitHub.</sub>
 
 </td>
 <td width="28%" valign="top">
